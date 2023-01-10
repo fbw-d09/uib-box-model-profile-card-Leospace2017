@@ -1,0 +1,52 @@
+body
+{
+    background:black;
+}
+#card
+{
+    position: relative;
+    height: 600px;
+    width: 700px;
+}
+#card img
+{
+    display: block;
+    border: 5px solid white ;
+    object-fit:contain;
+    width: 100%;
+
+
+}
+.rick
+{
+    border: 5px solid greenyellow;
+    position: absolute;
+    color: white;
+    display: block;
+    top: 20px;
+    right: -20px;
+    border-radius: 25px;
+    padding: 10px;
+    padding-right: 55px ;
+    font-size: 2rem;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.74);
+    text-align: left;
+    
+}
+
+.sanchez
+{
+    border: 5px solid greenyellow;
+    position: absolute;
+    color: white;
+    display: block;
+    top: 100px;
+    right: -20px;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 2rem;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.74);
+    
+}
